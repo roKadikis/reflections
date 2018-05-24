@@ -1,2 +1,5 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 A: A hidden .git folder appears. An empty repository is initialized. I need to do it so that I can further add and track the files of my code i.e. to use the Git.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: The staging area is more temporal? It allows to separately add modified files so that they can be bundled into logical commits. 
