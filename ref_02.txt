@@ -1,0 +1,2 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: A hidden .git folder appears. An empty repository is initialized. I need to do it so that I can further add and track the files of my code i.e. to use the Git.
