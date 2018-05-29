@@ -9,3 +9,6 @@ A: I can separately add different changed files to make separate commits if nece
 
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: Branches would be helpful, if I want to make several versions of the project or if I would like to try to add some experimental feature, while saving a working code on the separate branch. 
+
+Q: How do th ediagrams help you visualize th ebranch structure?
+A: I can see, where the branches are created and which branch has branched off the master earlier or later than other branches.
