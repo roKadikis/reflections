@@ -7,3 +7,5 @@ A: The staging area is more temporal? It allows to separately add modified files
 Q: How can you use the staging area to make sure you have one commit per logical change?
 A: I can separately add different changed files to make separate commits if necessary.
 
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: Branches would be helpful, if I want to make several versions of the project or if I would like to try to add some experimental feature, while saving a working code on the separate branch. 
