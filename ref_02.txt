@@ -12,3 +12,9 @@ A: Branches would be helpful, if I want to make several versions of the project 
 
 Q: How do th ediagrams help you visualize th ebranch structure?
 A: I can see, where the branches are created and which branch has branched off the master earlier or later than other branches.
+
+Q: What is the result of merging branches together? Why do we represent it in th ediagram the way we do?
+A: Codes from different branches are combined into a signle code. Diagrams show how the commits from different branches can or canno't 'see' the prvious commits.
+
+Q: What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+A: Automatic merging is faster - it does the boring part of the work for me. The cons are the loose of some control I gues?
