@@ -1,0 +1,2 @@
+A: When would you want to use a remote repository rather than keeping all your work local?
+Q: When I want to share the work with other, or when I want to collaborate with peoples with other machines. And when I want to backup my work.
