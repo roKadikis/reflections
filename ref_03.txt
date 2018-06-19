@@ -6,3 +6,6 @@ A: Manually would be easier to collaborate on the same project.
 
 Q: Describe the difference between forks, clones, and branches. When would you use one instead of another?
 A: Forks work on GitHub repositories, creating a new one, with a new owner and optionally collabolators. Clones are pies of your own code - thay might be ocal as well as a copy from github. Branches are different versions of your code that are still saved in a same repository. I would use forks to take someone elses repositor as a fundation from which I would build something else that the original author is planning. I would use clones to copy some existing repositories to my computer or make some backups. I would use branches to make some experimental features in the code, while maintaining a working version.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: Easier merging because of less new changes introduced between the current local version and the remote.
