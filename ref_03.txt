@@ -9,3 +9,6 @@ A: Forks work on GitHub repositories, creating a new one, with a new owner and o
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: Easier merging because of less new changes introduced between the current local version and the remote.
+
+Q: How would you collaborate without using Git ir GitHub? What would be easier, and what would be harder?
+A: Maybe a Dropbox or something liek that. Most thing sseems to be harder without Git - the merging, the commits, the log will be missed.
