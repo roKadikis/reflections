@@ -12,3 +12,8 @@ A: Easier merging because of less new changes introduced between the current loc
 
 Q: How would you collaborate without using Git ir GitHub? What would be easier, and what would be harder?
 A: Maybe a Dropbox or something liek that. Most thing sseems to be harder without Git - the merging, the commits, the log will be missed.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: I'd use separate branch when I'm working on a new feature while I want the originaal code to be intact and working meanwhile. the branching is more complicated than working on a master, but it allows more control of parallel versions. Branches are helpful when working in teams, where different people are working on different features.
+
+
